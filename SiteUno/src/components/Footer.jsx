@@ -18,7 +18,7 @@ export default function Footer() {
             <p>
                 <span>UNO</span> &copy; 2024
             </p><p>
-                3B: Marley Silva | Ian Murad | Thiago Domingos | Vitor Mainchein | Kalil Porto
+                3B: Emily Serafim | Ana Luiza | Eloisa 
             </p>
         </footer>
     )
